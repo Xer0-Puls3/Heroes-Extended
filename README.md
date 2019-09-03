@@ -3,11 +3,6 @@ Extends Heroes RPG and aims to improve the overall quality of the site.
 
 Created by [Puls3](https://github.com/Xer0-Puls3)!
 
-## Features
-* Extends the UI accross large screens.
-
-Just like Pendorian Elite UI grew, I'm expecting this to grow into more.
-
 ## Downloads
 [Latest Release](https://github.com/Xer0-Puls3/Heroes-Extended/raw/master/script.user.js)
 
