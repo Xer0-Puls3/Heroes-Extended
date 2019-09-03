@@ -5,7 +5,7 @@
 // @author Puls3
 // @include http*://heroesrpg.com/game.php
 // @include http*://*.heroesrpg.com/game.php
-// @downloadURL https://github.com/Xer0-Puls3/Heroes-Extended/raw/master/script.user.js
+// @downloadURL https://github.com/xPuls3/Heroes-Extended/raw/master/script.user.js
 // @grant none
 // @description Extends Heroes RPG and aims to improve the overall quality of the site.
 // ==/UserScript==
